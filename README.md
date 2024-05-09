@@ -1,6 +1,8 @@
 #### Remark:
-This is a competition from Datacamp called "What foods are the most nutritions?"
+This is a competition from Datacamp called "What foods are the most nutritions?".
+
 You can see the publication I submitted in the following [link](https://www.datacamp.com/datalab/w/a33a04b6-a134-40a4-9752-0c198f1a144f).
+
 
 # What is good food?
 
@@ -8,6 +10,7 @@ You can see the publication I submitted in the following [link](https://www.data
 You and your friend have gotten into a debate about nutrition. Your friend follows a high-protein diet and does not eat any carbohydrates (no grains, no fruits). You claim that a balanced diet should contain all nutrients but should be low in calories. Both of you quickly realize that most of what you know about nutrition comes from mainstream and social media.
 
 Being the data scientist that you are, you offer to look at the data yourself to answer a few key questions.
+
 
 ## 💾 The data
 
@@ -26,6 +29,7 @@ You source nutrition data from USDA's FoodData Central [website](https://fdc.nal
 - **Alcohol**: The alcohol content of the food (if any), measured in grams.
 - **Vitamin C**: The Vitamin C content of the food, measured in milligrams.
 
+
 ## 💪 Competition challenge
 
 Create a report that covers the following:
@@ -35,6 +39,7 @@ Create a report that covers the following:
 3. What are the possible drawbacks of a zero-carb diet? What could be the drawbacks of a very high-protein diet?
 4. According to the Cleveland Clinic [website](https://my.clevelandclinic.org/health/articles/4182-fat-and-calories), a gram of fat has around 9 kilocalories, and a gram of protein and a gram of carbohydrate contain 4 kilocalories each. Fit a linear model to test whether these estimates agree with the data.
 5. Analyze the errors of your linear model to see what could be the hidden sources of calories in food.
+
 
 # Executive Summary: Nutrition and Diet Analysis
 
